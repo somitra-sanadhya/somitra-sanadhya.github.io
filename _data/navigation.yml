@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Students"
+    url: /students/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Chess"
+    url: /chess/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Hindi"
+    url: /hindi/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Quotes"
+    url: /quotes/
     
-  - title: "Guide"
-    url: /markdown/
+
