@@ -115,7 +115,7 @@ redirect_from:
 
 + Served as a reviewer for submissions to these journals:
 
-+ Journal of Cryptology (JoC); Design, Codes and Cryptography (DCC); Cryptography and Communications (CCDS); IEEE Trans. on Comm.; IET Info. Sec.; IET Networks; Integration-the VLSI journal; IEICE Trans.; Jour. of Medical systems; Int. Jour. of Computer Maths.; Discrete Maths, algorithms and applications; Computer standards and interfaces;  China communications; Arabian Jour. of Sci. and Engg.; Iranian Jour. of Comp and Elec. Engg; Jour. of Info. Sci and Engg;
+  + Journal of Cryptology (JoC); Design, Codes and Cryptography (DCC); Cryptography and Communications (CCDS); IEEE Trans. on Comm.; IET Info. Sec.; IET Networks; Integration-the VLSI journal; IEICE Trans.; Jour. of Medical systems; Int. Jour. of Computer Maths.; Discrete Maths, algorithms and applications; Computer standards and interfaces;  China communications; Arabian Jour. of Sci. and Engg.; Iranian Jour. of Comp and Elec. Engg; Jour. of Info. Sci and Engg;
 
 + Organizing Chair of 12th Annual IFIP International Conference on Digital Forensics,  New Delhi, Jan 4-6, 2016.
 
