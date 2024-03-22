@@ -54,8 +54,9 @@ redirect_from:
 
   + I generally do not respond to messages from publishers known for sending spam (such as MDPI). I also ignore review requests if they concern papers that are clearly out of the scope of my research interest. 
 
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+#### 
+----
+Education	Research Interests
+Ph. D. (2009) Indian Statistical Institute, Kolkata	Cryptology and Security.
+M.Tech. (2002) Jawaharlal Nehru University, Delhi	Quantum Computation.
+B. Tech. (1994) Indian Institute of Technology, Delhi	Blockchains and cryptocurrencies.
