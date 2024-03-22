@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-सौमित्र सनाढ्य
+  सौमित्र सनाढ्य
 
-  + Professor, Dept. of CSE, IIT Jodhpur, Karwar, Rajasthan, INDIA 342037
+  + Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037
 
-	  (Please use mail-id somitra@iitj.ac.in for academic matters)
+	  (Please use mail-id [somitra@iitj.ac.in](mailto:somitra@iitj.ac.in) for academic matters)
 
-  + Affiliated to the School of Artificial Intelligence and Data Science (AIDE) 
+    + Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/) 
 
-  + Member, Quantum Information and Computation interdisciplinary research group 
+    + Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group 
 
- + Member, Center for Education and Technology for Education  
+    + Member, Center for Education and Technology for Education  
 
   + Dean, Digital Transformation (Please use mail-id dean_dt@iitj.ac.in for matters related to this position)
 
