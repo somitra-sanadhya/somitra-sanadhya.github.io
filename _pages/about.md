@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-सौमित्र सनाढ्य 
-Professor, Dept. of CSE, IIT Jodhpur, Karwar, Rajasthan, INDIA 342037
+सौमित्र सनाढ्य
 
-		     (Please use mail-id somitra@iitj.ac.in for academic matters)
+  + Professor, Dept. of CSE, IIT Jodhpur, Karwar, Rajasthan, INDIA 342037
+
+	  (Please use mail-id somitra@iitj.ac.in for academic matters)
 
   + Affiliated to the School of Artificial Intelligence and Data Science (AIDE) 
 
@@ -18,17 +19,17 @@ Professor, Dept. of CSE, IIT Jodhpur, Karwar, Rajasthan, INDIA 342037
 
  + Member, Center for Education and Technology for Education  
 
-Dean, Digital Transformation (Please use mail-id dean_dt@iitj.ac.in for matters related to this position)
+  + Dean, Digital Transformation (Please use mail-id dean_dt@iitj.ac.in for matters related to this position)
 
-Chief Information Security Officer (CISO), IITJ
+  + Chief Information Security Officer (CISO), IITJ
 
-Advisor, Whizhack (a Cybersecurity startup) 
+  + Advisor, Whizhack (a Cybersecurity startup) 
 
-Previously, I have served as an Associate Professor and Head at the Dept. of CSE at IIT Ropar. 
+  + Previously, I have served as an Associate Professor and Head at the Dept. of CSE at IIT Ropar. 
 
-Office: Room no. 208, Dept. of CSE, IIT Jodhpur.   
+  + Office: Room no. 208, Dept. of CSE, IIT Jodhpur.   
 
-  "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
+"Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
 
 A data-driven personal website
 ======
