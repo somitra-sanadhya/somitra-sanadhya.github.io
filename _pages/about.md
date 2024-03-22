@@ -57,22 +57,30 @@ redirect_from:
 #### Education 
 ----
 Ph. D. (2009) Indian Statistical Institute, Kolkata	
+
 M.Tech. (2002) Jawaharlal Nehru University, Delhi	
+
 B. Tech. (1994) Indian Institute of Technology, Delhi
 
 #### Research Interests 
 ----
-Cryptology and Security. 
-Quantum Computation.
-Blockchains and cryptocurrencies.
+  Cryptology and Security. 
+
+  Quantum Computation.
+
+  Blockchains and cryptocurrencies.
 
 
 ####  Organization and Service
+----
 Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
+
 Acting Director, DRDO Industry Academia Center of Excellence, IIT Jodhpur. Nov 2022 - July 2023.
 
 PC Member, 22nd International Conference on Cryptology and Network Security (CANS) 2023, SPACE 2023, Indocrypt 2023, ICISS 2023.
+
 Invited speaker, Chintan Shivir, 19th Foundation day, NTRO, April 2023. 
+
 Invited speaker, Police Diwas, Rajasthan Police Academy, April 2023. 
 
 PC Member, 25th International Symposium on Stabilization, Safety, and Security of Distributed Systems, Crypto track 2023.
