@@ -32,6 +32,7 @@ redirect_from:
 
 
 > "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
+
 Working with me:  
 ------
   + Currently, I do not have any positions for short-term interns or RA. I will not repond to emails related to the same. However, I will be happy to consider students with very strong background in Mathematics (KVPY awardees, INMO awardees etc).
