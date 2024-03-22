@@ -56,19 +56,19 @@ redirect_from:
 
 ### Education 
 ----
-Ph. D. (2009) Indian Statistical Institute, Kolkata	
+- Ph. D. (2009) [Indian Statistical Institute](http://www.isical.ac.in/), Kolkata	
 
-M.Tech. (2002) Jawaharlal Nehru University, Delhi	
+- M.Tech. (2002) [Jawaharlal Nehru University](http://www.jnu.ac.in/), Delhi	
 
-B. Tech. (1994) Indian Institute of Technology, Delhi
+- B. Tech. (1994) [Indian Institute of Technology](http://www.iitd.ac.in/), Delhi
 
 ### Research Interests 
 ----
-  Cryptology and Security. 
+  - Cryptology and Security. 
 
-  Quantum Computation.
+  - Quantum Computation.
 
-  Blockchains and cryptocurrencies.
+  - Blockchains and cryptocurrencies.
 
 
 ###  Organization and Service
