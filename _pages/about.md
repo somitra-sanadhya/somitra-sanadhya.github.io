@@ -42,7 +42,7 @@ redirect_from:
 
 Contact:  
 ===
-    (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
+  + + (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
 
   + The best way to reach me is to send an email to "my first-name AT iitj.ac.in"
 
