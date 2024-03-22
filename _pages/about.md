@@ -33,6 +33,23 @@ redirect_from:
 
 > "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
 
+  + Currently, I do not have any positions for short-term interns or RA. I will not repond to emails related to the same. However, I will be happy to consider students with very strong background in Mathematics (KVPY awardees, INMO awardees etc).
+
+  + If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this note.
+
+  + If you wish that I write a recommendation letter for you (for any purpose) then please see this note.
+
+
+Contact: (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski)) 
+===
+  + The best way to reach me is to send an email to "my first-name AT iitj.ac.in"
+
+  + You may find my office number from IITJ telephone directory . But I normally do not pick it. The ring-tone is deliberately kept very low (almost inaudible) since I teach from the same place or participate in meetings, and do not wish others to get disturbed due to the phone. If you have my mobile number, please avoid calling me on non-urgent matters. 
+
+  + Also, please refrain from texting my phone, sending messages via apps such as Signal, Whatsapp, etc., or social media messengers (LinkedIn, Facebook, Twitter, etc.). I may not notice them, and even if I do, I may easily forget to reply to them (sorry!). Email is the only channel of communication that I regularly check.  
+
+  + I generally do not respond to messages from publishers known for sending spam (such as MDPI). I also ignore review requests if they concern papers that are clearly out of the scope of my research interest. 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
