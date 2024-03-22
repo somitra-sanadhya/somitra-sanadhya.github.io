@@ -17,19 +17,21 @@ redirect_from:
 
     + Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group 
 
-    + Member, Center for Education and Technology for Education  
+    + Member, [Center for Education and Technology for Education](https://sites.google.com/iitj.ac.in/edtech-iitj)  
 
-  + Dean, Digital Transformation (Please use mail-id dean_dt@iitj.ac.in for matters related to this position)
+  + Dean, Digital Transformation 
+        (Please use mail-id [dean_dt@iitj.ac.in](mailto:dean_dt@iitj.ac.in) for matters related to this position)
 
   + Chief Information Security Officer (CISO), IITJ
 
-  + Advisor, Whizhack (a Cybersecurity startup) 
+  + Advisor, [Whizhack](https://whizhack.in/about-us) (a Cybersecurity startup) 
 
-  + Previously, I have served as an Associate Professor and Head at the Dept. of CSE at IIT Ropar. 
+  + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
 
   + Office: Room no. 208, Dept. of CSE, IIT Jodhpur.   
 
-"Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
+
+> "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
 
 A data-driven personal website
 ======
