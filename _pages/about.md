@@ -54,9 +54,69 @@ redirect_from:
 
   + I generally do not respond to messages from publishers known for sending spam (such as MDPI). I also ignore review requests if they concern papers that are clearly out of the scope of my research interest. 
 
-#### 
+#### Education 
 ----
-Education	Research Interests
-Ph. D. (2009) Indian Statistical Institute, Kolkata	Cryptology and Security.
-M.Tech. (2002) Jawaharlal Nehru University, Delhi	Quantum Computation.
-B. Tech. (1994) Indian Institute of Technology, Delhi	Blockchains and cryptocurrencies.
+Ph. D. (2009) Indian Statistical Institute, Kolkata	
+M.Tech. (2002) Jawaharlal Nehru University, Delhi	
+B. Tech. (1994) Indian Institute of Technology, Delhi
+
+#### Research Interests 
+----
+Cryptology and Security. 
+Quantum Computation.
+Blockchains and cryptocurrencies.
+
+
+####  Organization and Service
+Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
+Acting Director, DRDO Industry Academia Center of Excellence, IIT Jodhpur. Nov 2022 - July 2023.
+
+PC Member, 22nd International Conference on Cryptology and Network Security (CANS) 2023, SPACE 2023, Indocrypt 2023, ICISS 2023.
+Invited speaker, Chintan Shivir, 19th Foundation day, NTRO, April 2023. 
+Invited speaker, Police Diwas, Rajasthan Police Academy, April 2023. 
+
+PC Member, 25th International Symposium on Stabilization, Safety, and Security of Distributed Systems, Crypto track 2023.
+
+Keynote Speaker, ICCSNL 2022, PSIT Kanpur, 16-18 Dec 2022.
+
+Invited Speaker, National Workshop on Cryptology 2022, 22-24 Nov 2022, CDoT New Delhi.
+
+Speaker, 5th TTDD 2022 Conference, Telecommunication Standards Development Society, 7-10 Nov 2022.
+
+PC Member of CANS 2022, Indocrypt 2022, SPACE 2022, ICISS 2022.
+
+Organizing chair of 18th Annual IFIP International Conference on Digital Forensics, New Delhi, Jan 2022.
+
+Member, Board of studies, SR University, Warangal, Telangana. 
+
+Academic Board member, Bennett University, Greater Noida.
+
+Member, Jury committee, Cybersecurity Startup Grand-challenge, Ministry of Electronics and Information Technology, Govt. of India, 2020 to 2021.
+
+Member, Data Analysis Group, COVID management, Govt. of Punjab, 2020.
+
+Organizing chair of 16th Annual IFIP International Conference on Digital Forensics, New Delhi, Jan 2020.
+
+Organizing chair of 14th Annual IFIP International Conference on Digital Forensics, New Delhi, Jan 3-5, 2018.
+
+PC co-chair Indocrypt 2016 (with Orr Dunkelman)
+
+PC Member of: SAC 2019, ACNS 2017, ICMC 2018, 2017, 2016, VLSI Design 2017, 2016, Indocrypt 2021, 2017, 2015, IEEE WCI 2015, SPACE 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013.
+
+Subreviewer for: Eurocrypt 2015, FSE 2015, ACNS 2015, 2014; ACISP 2013.
+
+Served as a reviewer for submissions to these journals:
+
+Journal of Cryptology (JoC); Design, Codes and Cryptography (DCC); Cryptography and Communications (CCDS); IEEE Trans. on Comm.; IET Info. Sec.; IET Networks; Integration-the VLSI journal; IEICE Trans.; Jour. of Medical systems; Int. Jour. of Computer Maths.; Discrete Maths, algorithms and applications; Computer standards and interfaces;  China communications; Arabian Jour. of Sci. and Engg.; Iranian Jour. of Comp and Elec. Engg; Jour. of Info. Sci and Engg;
+
+Organizing Chair of 12th Annual IFIP International Conference on Digital Forensics,  New Delhi, Jan 4-6, 2016.
+
+Co-chair Asian Workshop on Symmetric Key Cryptography (ASK) 2014, SETS Chennai, December 19-22 2014.
+
+Workshop on "Cryptanalysis of Symmetric Cryptographic Systems", IIIT Delhi, Feb 28- March 7, 2013.
+
+Program Committee co-Chair, International Conference on Security, Privacy and Applied Cryptography Engineering (SPACE 2012), SETS Chennai, November 2012.
+
+Workshop on "Multivariate Equation Solving Techniques", IIIT Delhi, March 12-16, 2012.
+
+Program Committee co-Chair, the 11th National workshop on Cryptology (NCW 2011) held at NIIT University, Neemrana, September 2011
