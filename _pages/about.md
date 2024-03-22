@@ -33,8 +33,8 @@ redirect_from:
 
 > "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
 
-#### Working with me:  
-
+#### Working with me: 
+----- 
   + Currently, I do not have any positions for short-term interns or RA. I will not repond to emails related to the same. However, I will be happy to consider students with very strong background in Mathematics (KVPY awardees, INMO awardees etc).
 
   + If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this note.
@@ -43,8 +43,8 @@ redirect_from:
 
 
 #### Contact:  
-------
-  + + (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
+-----
+  (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
 
   + The best way to reach me is to send an email to "my first-name AT iitj.ac.in"
 
