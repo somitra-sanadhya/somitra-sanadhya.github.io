@@ -14,7 +14,7 @@ main:
     
   - title: "Chess"
     url: /chess/
-        git reset --soft HEAD~1
+  
   - title: "Hindi"
     url: /hindi/
     
