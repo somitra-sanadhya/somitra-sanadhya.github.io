@@ -42,7 +42,8 @@ redirect_from:
 
 Contact:  
 ===
-      (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
+    (This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))
+
   + The best way to reach me is to send an email to "my first-name AT iitj.ac.in"
 
   + You may find my office number from IITJ telephone directory . But I normally do not pick it. The ring-tone is deliberately kept very low (almost inaudible) since I teach from the same place or participate in meetings, and do not wish others to get disturbed due to the phone. If you have my mobile number, please avoid calling me on non-urgent matters. 
