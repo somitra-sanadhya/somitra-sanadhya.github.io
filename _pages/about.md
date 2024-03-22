@@ -7,28 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-  सौमित्र सनाढ्य
+  **सौमित्र सनाढ्य**
 
-  + Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037
+  + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
 
 	  (Please use mail-id [somitra@iitj.ac.in](mailto:somitra@iitj.ac.in) for academic matters)
 
-    + Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/) 
+    + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)** 
 
-    + Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group 
+    + **Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group** 
 
-    + Member, [Center for Education and Technology for Education](https://sites.google.com/iitj.ac.in/edtech-iitj)  
+    + **Member, [Center for Education and Technology for Education](https://sites.google.com/iitj.ac.in/edtech-iitj)**  
 
-  + Dean, Digital Transformation 
+  + **Dean, Digital Transformation** 
         (Please use mail-id [dean_dt@iitj.ac.in](mailto:dean_dt@iitj.ac.in) for matters related to this position)
 
-  + Chief Information Security Officer (CISO), IITJ
+  + **Chief Information Security Officer (CISO)**, IITJ
 
   + Advisor, [Whizhack](https://whizhack.in/about-us) (a Cybersecurity startup) 
 
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
 
-  + Office: Room no. 208, Dept. of CSE, IIT Jodhpur.   
+  + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur.**   
 
 
 > "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                                                                     - Yajurveda 40:16 (8) 
