@@ -2,7 +2,7 @@
 layout: archive
 title: "Students"
 permalink: /students/
-author_profile: false
+author_profile: true
 ---
 
 ### Current PhD students:
