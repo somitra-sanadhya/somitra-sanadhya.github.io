@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Somitra Sanadhya"
   pronouns         : # example: "she/her"  
-  bio              : "Professor, Dept. of CSE, Dean, Digital Transformation, CISO, IIT Jodhpur"
+  bio              : "Professor, Dept. of CSE,<br> Dean, Digital Transformation,<br> CISO, IIT Jodhpur"
   location         : "Jodhpur, Rajasthan"
-  employer         : #"Indian Institute of Technology,Jodhpur"
+  employer         : "IIT Jodhpur"
   uri              : # URL
   email            : "somitra@iitj.ac.in" 
 
