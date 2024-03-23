@@ -18,7 +18,4 @@ I used to play online chess till few years ago, but no longer active now. Howeve
 I could meet and play a simultaneous exhibition game against GM Viswanathan Anand at a function organized at NIIT University in Neemrana in 2012. I resigned on move 23 when Vishy was threatening to queen his pawn (in fact, my position was already hopeless from a few moves earlier). Here are two pictures from that occasion:     
 
 
-
-                           
-
-Me with Anand                With Anand in a simultaneous exhibition
+![Meeting with Vishy](/chess_match.png)
