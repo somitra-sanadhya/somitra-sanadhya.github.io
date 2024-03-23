@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-      [Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)]
+    [Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)]
 
 ### 2024
 1. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. 

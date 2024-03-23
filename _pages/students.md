@@ -17,7 +17,7 @@ author_profile: true
 
     4. Santosh Kumar (Part-time)
 
-    5. Vishal Srivastava
+    5. [Vishal Srivastava](https://www.linkedin.com/in/vishal-srivastava27)
 
 + At IIIT Delhi:
 
