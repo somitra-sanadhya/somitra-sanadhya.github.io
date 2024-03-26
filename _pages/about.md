@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![](/images/lake.png)
 
   **सौमित्र सनाढ्य**
 
