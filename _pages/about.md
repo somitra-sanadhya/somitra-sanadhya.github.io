@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Somitra Sanadhya"
+#title: "Somitra Sanadhya"
 author_profile: true
 redirect_from: 
   - /about/
