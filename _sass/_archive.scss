@@ -58,7 +58,7 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0.5em;
+  margin-top: 0.3em; // reduced margin
   font-size: $type-size-6;
 
   & + p {
