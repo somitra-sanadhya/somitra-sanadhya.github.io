@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 #title: "Somitra Sanadhya"
 author_profile: true
