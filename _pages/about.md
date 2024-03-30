@@ -39,9 +39,9 @@ redirect_from:
 ----- 
   + Currently, I do not have any positions for short-term interns or RA. I will not repond to emails related to the same. However, I will be happy to consider students with very strong background in Mathematics (KVPY awardees, INMO awardees etc).
 
-  + If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this [note]().
+  + If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this [note](https://somitra-sanadhya.github.io/note1).
 
-  + If you wish that I write a recommendation letter for you (for any purpose) then please see this [note]().
+  + If you wish that I write a recommendation letter for you (for any purpose) then please see this [note](https://somitra-sanadhya.github.io/note2).
 
 
 ### Contact:  
