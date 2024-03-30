@@ -14,7 +14,7 @@ I receive a lot of applications from students to write recommendation letters fo
 
 2. I have many other responsibilities and am certainly not waiting to write letters for you. Ideally, you should approach me few weeks or a month in advance. Do not approach me on the last day of any application. I am almost certain to refuse you in that case.
 
-3. udge yourself if you should approach me in the first place for writing a letter for you.
+3. Judge yourself if you should approach me in the first place for writing a letter for you.
 
     1. If you have never taken a course with me then there is no way I will write a letter for you.
 
