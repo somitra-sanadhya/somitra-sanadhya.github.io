@@ -44,3 +44,4 @@
     {% endfor %}
   </ul>
 </nav>
+<hr>
