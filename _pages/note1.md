@@ -9,11 +9,9 @@ author_profile: true
 ----
 A necessary condition to work with me is that you should posses at least 2 out of the following 3:
 
-    Strong foundations in Mathematics,
-
-    Good understanding of Theoretical Computer Science,
-
-    Extremely good programming skills.
+1. Strong foundations in Mathematics,
+2. Good understanding of Theoretical Computer Science,
+3. Extremely good programming skills.
 
 It is better (but not necessary) if you have taken at least one course with me. 
 
