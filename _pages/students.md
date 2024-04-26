@@ -29,7 +29,7 @@ author_profile: true
 
 2. [Amit Kumar Chauhan](https://sites.google.com/view/amitchauhan) (April 2022, "Post-Quantum Security of Symmetric-Key Cryptosystems"). Research Scientist at QNu Labs,  Bangalore.
 
-3. [Monika Singh](https://www.linkedin.com/in/monika-singh-1985b8a5) (February 2022, "Design and Analysis of Approximate Matching Algorithms"), Researcher at NIST, USA.  C0-supervised by Donghoon Chang.
+3. [Monika Singh](https://www.linkedin.com/in/monika-singh-1985b8a5) (February 2022, "Design and Analysis of Approximate Matching Algorithms"), Researcher at NIST, USA.  Co-supervised by Donghoon Chang.
 
 4. [Megha Agrawal](https://in.linkedin.com/in/megha-agrawal-242224109) (March 2021, "Authenticated Encryption for Memory Constrained Devices"), Researcher at Robert Bosch, Bangalore. Co-supervised by Donghoon Chang.
 
