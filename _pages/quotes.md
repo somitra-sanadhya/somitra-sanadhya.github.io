@@ -2,7 +2,7 @@
 layout: archive
 title: "Quotes"
 permalink: /quotes/
-author_profile: false
+author_profile: true 
 ---
 
 I liked the following quotes and collected them here, in no particular order.
