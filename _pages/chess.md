@@ -2,7 +2,7 @@
 layout: archive
 title: "Chess"
 permalink: /chess/
-author_profile: false
+author_profile: true
 ---
 
 I used to play online chess till few years ago, but no longer active now. However, I try to follow all tournaments that Vishy plays in. Sites I like to follow live chess games are chessbase.in, chess24.com and chess.com 
