@@ -22,7 +22,7 @@ repository               : "somitra-sanadhya/somitra-sanadhya.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Somitra Sanadhya"
+  name             : # "Somitra Sanadhya"
   pronouns         : # example: "she/her"  
   bio              : "Professor, Dept. of CSE,<br> Dean, Digital Transformation,<br> CISO, IIT Jodhpur"
   location         : "Jodhpur, Rajasthan"
