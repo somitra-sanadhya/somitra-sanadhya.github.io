@@ -26,8 +26,6 @@ redirect_from:
 
   + **Chief Information Security Officer (CISO)**, IITJ
 
-  + Advisor, [Whizhack](https://whizhack.in/about-us) (a Cybersecurity startup) 
-
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
 
   + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur.**   
