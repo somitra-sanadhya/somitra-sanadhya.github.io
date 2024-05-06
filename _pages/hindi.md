@@ -2,7 +2,7 @@
 layout: archive
 title: "Hindi"
 permalink: /hindi/
-author_profile: false
+author_profile: true
 ---
 
 
