@@ -45,9 +45,9 @@ author_profile: true
 
 + At IIT Jodhpur (graduation time, thesis title):
 
-    1. Vijaya Rawat
+    1. Vijaya Rawat (2024, M.Tech. thesis: Smart contract Vulnerability Detection)
 
-    2. Divya Mahendia
+    2. Divya Mahendia (2024, M.Tech. thesis: Data Recovery in Blockchain-Based Multi-Cloud Storage Data Auditing Systems)
 
     3. Shubham Singh (2023, M.Tech. thesis: On improving Security-Scalability tradeoff of Bitcoin)
 
