@@ -18,4 +18,8 @@ I liked the following quotes and collected them here, in no particular order.
 
 + "Lead us to the good path and remove the sin that makes us stray and wander." - Yajurveda
 
++ "Everything is theoretically impossible, until it is done.” – Robert A. Heinlein
+
 + "All you need in this life is ignorance and confidence, then success is sure." - Mark Twain
+
++ "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human. - Alan Turing
