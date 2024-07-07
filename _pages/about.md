@@ -19,7 +19,7 @@ redirect_from:
 
     + **Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group** 
 
-    + **Member, [Center for Education and Technology for Education](https://sites.google.com/iitj.ac.in/edtech-iitj)**  
+    + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
 
   + **Dean, Digital Transformation** 
         (Please use mail-id [dean_dt@iitj.ac.in](mailto:dean_dt@iitj.ac.in) for matters related to this position)
