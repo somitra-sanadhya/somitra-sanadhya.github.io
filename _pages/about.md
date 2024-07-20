@@ -17,12 +17,10 @@ redirect_from:
 
     + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)** 
 
-    + **Member, [Quantum Information and Computation](https://iitj.ac.in/qic/) interdisciplinary research group** 
-
     + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
 
-  + **Dean, Digital Transformation** 
-        (Please use mail-id [dean_dt@iitj.ac.in](mailto:dean_dt@iitj.ac.in) for matters related to this position)
+  + **Dean, Digital Infrastucture and Automation** 
+        (Please use mail-id [ddia@iitj.ac.in](mailto:ddia@iitj.ac.in) for matters related to this position)
 
   + **Chief Information Security Officer (CISO)**, IITJ
 
