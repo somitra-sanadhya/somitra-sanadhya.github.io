@@ -15,7 +15,9 @@ redirect_from:
 
 	  (Please use mail-id [somitra@iitj.ac.in](mailto:somitra@iitj.ac.in) for academic matters)
 
-    + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)** 
+    + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)**
+
+    + **Fellow at C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur, Year 2024-25.**
 
     + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
 
