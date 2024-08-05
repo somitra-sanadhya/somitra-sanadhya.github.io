@@ -17,7 +17,7 @@ redirect_from:
 
     + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)**
 
-    + **Fellow at C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur, Year 2024-25.**
+    + **Fellow at C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur (https://c3ihub.org/), Year 2024-25.**
 
     + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
 
