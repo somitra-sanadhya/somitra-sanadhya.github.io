@@ -7,6 +7,10 @@ author_profile: true
 
 ### Courses at IIT Jodhpur:
 ----
++ Monsoon 2024: Security Engineering
+   
++ Summer 2024: Algorithms for Big Data
+  
 + Winter 2024: Cryptography (Google classroom code already shared with the class)
 
 + Monsoon 2023: (1) Introduction to Information Security (2) Linear Algebra for Big Data
