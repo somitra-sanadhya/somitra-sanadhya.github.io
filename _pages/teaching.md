@@ -7,6 +7,10 @@ author_profile: true
 
 ### Courses at IIT Jodhpur:
 ----
++ Winter 2025: Cryptography
+
++ Trimester 1 (PGD AI): Data Structures and Algorithmic Techniques
+  
 + Monsoon 2024: Security Engineering
    
 + Summer 2024: Algorithms for Big Data
