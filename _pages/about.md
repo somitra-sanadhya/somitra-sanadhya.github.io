@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](/images/lake.png)
+![](/lake_new.jpg)
 
 **सौमित्र सनाढ्य**
   + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
