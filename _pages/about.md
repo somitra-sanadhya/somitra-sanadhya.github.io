@@ -48,7 +48,8 @@ redirect_from:
   - Cryptology and Security. 
   - Quantum Computation.
   - Blockchains and cryptocurrencies.
-###  Organization and Service
+
+### Organization and Service
 ----
 + Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
 + Acting Director, DRDO Industry Academia Center of Excellence, IIT Jodhpur. Nov 2022 - July 2023.
