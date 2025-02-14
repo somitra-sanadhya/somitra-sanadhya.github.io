@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![](/images/lake.png)
-  <br>**सौमित्र सनाढ्य**
+  **<br>सौमित्र सनाढ्य**
   + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
 	  (Please use mail-id [somitra@iitj.ac.in](mailto:somitra@iitj.ac.in) for academic matters)
     + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)**
