@@ -19,6 +19,7 @@ redirect_from:
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
   + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur.**   
  > "Lead us to the good path and remove the sin that makes us stray and wander" - Yajurveda 40:16 (8)
+
 ### Working with Me: 
 ----- 
   + Currently, I do not have any positions for short-term interns or RA. I will not repond to emails related to the same. However, I will be happy to consider students with very strong background in Mathematics (KVPY awardees, INMO awardees etc).
