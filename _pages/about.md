@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 ![](/images/lake.png)
-
   <br>**सौमित्र सनाढ्य**
   + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
-
 	  (Please use mail-id [somitra@iitj.ac.in](mailto:somitra@iitj.ac.in) for academic matters)
     + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)**
     + **Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25.**
@@ -19,7 +17,6 @@ redirect_from:
 
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
   + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur.**   
-
  > "Lead us to the good path and remove the sin that makes us stray and wander"                                                                                      - Yajurveda 40:16 (8)
 
 ### Working with Me: 
