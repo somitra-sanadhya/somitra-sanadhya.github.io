@@ -10,7 +10,7 @@ author_profile: true
 + At IIT Jodhpur:
 
     1. Issa Baddour 
-    2. Pulkit Garg
+    2. [Pulkit Garg](https://sites.google.com/iitj.ac.in/pulkitgarg/home?pli=1)
     3. Dixit Dutt Bohra
     4. [Vishal Srivastava](https://www.linkedin.com/in/vishal-srivastava27)
 
