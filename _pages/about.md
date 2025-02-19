@@ -16,8 +16,8 @@ redirect_from:
     + **Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)**
     + **Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)**
 
-  + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/). 
-  + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur.**   
+  + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
+  + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur**   
  > "Lead us to the good path and remove the sin that makes us stray and wander" - Yajurveda 40:16 (8)
 
 ### Working with Me: 
