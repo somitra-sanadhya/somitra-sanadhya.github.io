@@ -14,9 +14,7 @@ main:
     
   - title: "Chess"
     url: /chess/
-  
-  - title: "Hindi"
-    url: /hindi/
+
     
   - title: "Quotes"
     url: /quotes/
