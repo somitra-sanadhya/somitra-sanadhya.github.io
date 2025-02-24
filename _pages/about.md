@@ -15,6 +15,7 @@ redirect_from:
     + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
     + **Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)**
     + **Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)**
+    + **Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)**
 
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
   + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur**   
