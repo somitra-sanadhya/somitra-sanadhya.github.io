@@ -8,7 +8,8 @@ author_profile: true
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
 ### 2024
-1. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. 
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW), 2024.
+2. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. 
 
 ### 2023
 1. Amit Kumar Chauhan, Abhishek Kumar, Somitra Kumar Sanadhya. Square Attacks on Reduced-Round FEA-1 and FEA-2. 25th International Symposium on Stabilization, Safety, and Security of Distributed Systems 2023 (SSS 2023). 
