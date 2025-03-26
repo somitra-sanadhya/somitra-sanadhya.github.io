@@ -10,12 +10,12 @@ redirect_from:
 ![](/lake_new.jpg)
 ### सौमित्र सनाढ्य
   + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
-    + **Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)**
-    + **Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25**
-    + **Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)**
-    + **Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)**
-    + **Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)**
-    + **Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)**
+    + Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)
+    + Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25
+    + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
+    + Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)
+    + Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)
+    + Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)
 
   + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
   + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur**   
