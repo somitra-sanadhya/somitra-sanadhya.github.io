@@ -33,10 +33,12 @@ author_profile: true
 
 + At IIT Jodhpur (graduation time, thesis title):
 
-    1. Vijaya Rawat (2024, M.Tech. thesis: Smart contract Vulnerability Detection)
-    2. Divya Mahendia (2024, M.Tech. thesis: Data Recovery in Blockchain-Based Multi-Cloud Storage Data Auditing Systems)
-    3. Shubham Singh (2023, M.Tech. thesis: On improving Security-Scalability tradeoff of Bitcoin)
-    4. Himanshi (2023, M.Tech. thesis: Defending SVM against Data poisoning attacks)
+    1. Bhavesh Khatri (2025, M.Tech. thesis: A Unified Approach to Web and Mobile Security, Automating Vulnerability Detection and Mitigation)
+    2. Ritobina Maitra (2025, M.Tech. thesis)
+    3. Vijaya Rawat (2024, M.Tech. thesis: Smart contract Vulnerability Detection)
+    4. Divya Mahendia (2024, M.Tech. thesis: Data Recovery in Blockchain-Based Multi-Cloud Storage Data Auditing Systems)
+    5. Shubham Singh (2023, M.Tech. thesis: On improving Security-Scalability tradeoff of Bitcoin)
+    6. Himanshi (2023, M.Tech. thesis: Defending SVM against Data poisoning attacks)
 
 + At IIT Ropar (graduation time, thesis title):
 
