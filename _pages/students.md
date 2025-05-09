@@ -53,12 +53,12 @@ author_profile: true
 
 + At former workplace:
 
-1. N. Sumesh Manjunath (M.Tech. thesis, TCS Research->PhD candidate in NYU Abu Dhabi)
+1. [N. Sumesh Manjunath](https://scholar.google.com/citations?user=Sbaxl9QAAAAJ&hl=en) (M.Tech. thesis, TCS Research->PhD candidate in NYU Abu Dhabi)
 2. [Akshima](https://sites.google.com/view/akshima-) (BTech. thesis, PhD candidate at Univ. of Chicago->Post-doc at NYU Shanghai)
 3. [Aarushi Goel](https://aarushigoel.github.io/) (B.Tech. thesis, PhD candidate at John Hopkins Univ.-> Faculty member at Purdue University)
 4. Akshay Gupta (B.Tech. thesis, M.S. Georgia Tech->Security research and consulting, US)
 5. Gaurav Saluja (B.Tech. thesis, Software development)
-6. Madhuri Siddula (M.Tech. thesis, PhD candidate at West Virginia University, US -> Faculty member in a US university)
+6. [Madhuri Siddula](https://scholar.google.com/citations?user=DQ5J_TkAAAAJ&hl=en) (M.Tech. thesis, PhD candidate at West Virginia University, US -> Faculty member in North Carolina A&T State university)
 7. Sandipan Biswas (M.Tech. thesis, Software development)
 8. Nishant Sharma (M.Tech. thesis -> Security research, Pentester academy)
 9. Tarun Kumar Bansal (M.Tech. thesis -> PhD student with me-> Security researcher Robert Bosch Bangalore)
