@@ -20,10 +20,10 @@ author_profile: true
 
 ### Graduated students:
 
-1. Abhishek Kumar (November 2023, Design and Analysis of Format-Preserving Encryption Schemes). Researcher at Robert Bosch, Bangalore.
+1. Abhishek Kumar (November 2023, Design and Analysis of Format-Preserving Encryption Schemes). Researcher in Cyber Security Industry, Hyderabad.
 2. [Amit Kumar Chauhan](https://sites.google.com/view/amitchauhan) (April 2022, "Post-Quantum Security of Symmetric-Key Cryptosystems"). Research Scientist at QNu Labs,  Bangalore.
 3. [Monika Singh](https://www.linkedin.com/in/monika-singh-1985b8a5) (February 2022, "Design and Analysis of Approximate Matching Algorithms"), Researcher at NIST, USA.  Co-supervised by Donghoon Chang.
-4. [Megha Agrawal](https://in.linkedin.com/in/megha-agrawal-242224109) (March 2021, "Authenticated Encryption for Memory Constrained Devices"), Researcher at Robert Bosch, Bangalore. Co-supervised by Donghoon Chang.
+4. [Megha Agrawal](https://in.linkedin.com/in/megha-agrawal-242224109) (March 2021, "Authenticated Encryption for Memory Constrained Devices"), Researcher in Cyber Security industry, Gurgaon. Co-supervised by Donghoon Chang.
 5. [Nalla Anandakumar](https://sites.google.com/site/nnallaanandakumar/) (January 2020, "Design, Implementation and Analysis of Efficient Hardware-based Security Primitives"), Scientist, SETS Chennai -> Post-doctoral researcher, Florida Institute of Cybersecurity Research, University of Florida. Co-supervised by Mohammad Hashmi.
 6. [Tarun Kumar Bansal](https://in.linkedin.com/in/tarun-bansal90) (April 2018, "Designing generic assymetric key cryptosystems with message padding"), Researcher at Robert Bosch, Bangalore. Co-supervised by Donghoon Chang.
 7. [Sweta Mishra](https://cse.snu.edu.in/people/faculty/dr-sweta-mishra) (January 2018, "Design and Analysis of Password-based Authentication Systems"), Visiting researcher at NIST, USA -> Asst. Prof. at Shiv Nadar University, Greater Noida. Co-supervised by Donghoon Chang.
@@ -54,11 +54,11 @@ author_profile: true
 + At former workplace:
 
 1. N. Sumesh Manjunath (M.Tech. thesis, TCS Research->PhD candidate in NYU Abu Dhabi)
-2. Akshima (BTech. thesis, PhD candidate at Univ. of Chicago)
-3. Aarushi Goel (B.Tech. thesis, PhD candidate at Rutgers Univ.)
+2. [Akshima](https://sites.google.com/view/akshima-) (BTech. thesis, PhD candidate at Univ. of Chicago->Post-doc at NYU Shanghai)
+3. [Aarushi Goel](https://aarushigoel.github.io/) (B.Tech. thesis, PhD candidate at John Hopkins Univ.-> Faculty member at Purdue University)
 4. Akshay Gupta (B.Tech. thesis, M.S. Georgia Tech->Security research and consulting, US)
 5. Gaurav Saluja (B.Tech. thesis, Software development)
-6. Madhuri Siddula (M.Tech. thesis, PhD candidate at West Virginia University, US)
+6. Madhuri Siddula (M.Tech. thesis, PhD candidate at West Virginia University, US -> Faculty member in a US university)
 7. Sandipan Biswas (M.Tech. thesis, Software development)
 8. Nishant Sharma (M.Tech. thesis -> Security research, Pentester academy)
 9. Tarun Kumar Bansal (M.Tech. thesis -> PhD student with me-> Security researcher Robert Bosch Bangalore)
