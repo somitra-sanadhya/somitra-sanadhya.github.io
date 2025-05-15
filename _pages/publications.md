@@ -7,6 +7,9 @@ author_profile: true
 
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
+### 2025
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025.
+   
 ### 2024
 1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW), 2024.
 2. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. 
