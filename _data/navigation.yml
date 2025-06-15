@@ -13,12 +13,11 @@ main:
     url: /students/  
 
   - title: "Student Awards"
-    url: /student_award
+    url: /student_award/
     
   - title: "Chess"
     url: /chess/
 
-    
   - title: "Quotes"
     url: /quotes/
     
