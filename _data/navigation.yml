@@ -12,7 +12,7 @@ main:
   - title: "Students"
     url: /students/  
 
-  - title: "Student Awards"
+  - title: "Student Award"
     url: /student_award/
     
   - title: "Chess"
