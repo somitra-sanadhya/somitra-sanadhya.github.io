@@ -13,5 +13,7 @@ I proposed an award in honor of my late mother Mrs. Krishna Devi Sanadhya, and I
 The following students have been the recipients of the award since its inception.
 
 Year 2025: Yet to be announced
-Year 2024: Harshita Kalani (B20CS019)
+
+Year 2024: Harshita Kalani (B20CS019) https://www.linkedin.com/posts/iitjodhpur_iitjodhpur-convocation2024-topgraduates-activity-7256270477441019904-S9yA/
+
 Year 2023: J. Jahnavi (B19CSE109)
