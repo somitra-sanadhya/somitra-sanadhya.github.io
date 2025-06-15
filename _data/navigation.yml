@@ -10,7 +10,10 @@ main:
     url: /teaching/    
 
   - title: "Students"
-    url: /students/    
+    url: /students/  
+
+  - title: "Student Awards"
+    url: /student_award
     
   - title: "Chess"
     url: /chess/
