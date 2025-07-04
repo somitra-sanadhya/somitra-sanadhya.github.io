@@ -10,12 +10,12 @@ author_profile: true
 
 I proposed an award in honor of my late mother Mrs. Krishna Devi Sanadhya, and I thank the senate of IIT Jodhpur for approving the proposal in 2023. 
 
-This award honors one student every year from the graduating batch. The award is given to the girl student from B.Tech. (CSE) with the best academic performance. A Gold medal and a Cash award is given to the awardee from 2024. In the first year (2023), the award carried a Silver medal and a cash award.
+This award honors one student every year from the graduating batch at IIT Jodhpur. The award is given to the girl student from B.Tech. (CSE) with the best academic performance. A Gold medal and a Cash award is given to the awardee from 2024. In the first year (2023), the award carried a Silver medal and a cash award.
 
 The following students have been the recipients of the award since its inception.
 
 
-Year 2025: Yet to be announced
+Year 2025: Niharika Dadu (B21CS052)
 
 Year 2024: [Harshita Kalani (B20CS019)](https://www.linkedin.com/posts/iitjodhpur_iitjodhpur-convocation2024-topgraduates-activity-7256270477441019904-S9yA/) 
 
