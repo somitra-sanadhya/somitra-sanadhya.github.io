@@ -9,16 +9,17 @@ redirect_from:
 ---
 ![](/lake_new.jpg)
 ### सौमित्र सनाढ्य
-  + **Professor, [Dept. of CSE, IIT Jodhpur](https://cse.iitj.ac.in/), Karwar, Rajasthan, INDIA 342037**
-    + Affiliated to the [School of Artificial Intelligence and Data Science (AIDE)](https://aide.iitj.ac.in/)
+  + **Professor, [Wadhwani School of AI and Intelligent Systems],(https://www.iitk.ac.in/new/wadhwani-school-of-advanced-ai-intelligent-systems), [IIT Kanpur](https://www.iitk.ac.in/)**
+
     + Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25
     + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)
     + Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)
 
-  + Previously, I have served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
-  + **Office: Room no. 208, Dept. of CSE, IIT Jodhpur**   
+  + Previosuly, I have served as the Dean, Digital Infrastructure and Automation, and Professor, Dept. of CSE, at [IIT Jodhpur](https://iitj.ac.in/)
+  + I have also served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
+  + **Office: C3iHub, IIT Kanpur**   
  > "Lead us to the good path and remove the sin that makes us stray and wander" - Yajurveda 40:16 (8)
 
 ### Working with Me: 
@@ -49,6 +50,7 @@ redirect_from:
 
 ### Organization and Service
 ----
++ Dean, DIA, IIT Jodhpur, (Sept 2022- Feb 2025).
 + Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
 + Acting Director, DRDO Industry Academia Center of Excellence, IIT Jodhpur. Nov 2022 - July 2023.
 + PC Member, 22nd International Conference on Cryptology and Network Security (CANS) 2023, SPACE 2023, Indocrypt 2023, ICISS 2023.
