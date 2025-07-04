@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![](/lake_new.jpg)
 ### सौमित्र सनाढ्य
-  + **Professor, [Wadhwani School of AI and Intelligent Systems],(https://www.iitk.ac.in/new/wadhwani-school-of-advanced-ai-intelligent-systems), [IIT Kanpur](https://www.iitk.ac.in/)**
+  + **Professor, [Wadhwani School of AI and Intelligent Systems](https://www.iitk.ac.in/new/wadhwani-school-of-advanced-ai-intelligent-systems), [IIT Kanpur](https://www.iitk.ac.in/)**
 
     + Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25
     + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
