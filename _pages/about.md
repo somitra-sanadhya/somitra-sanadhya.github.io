@@ -17,8 +17,7 @@ redirect_from:
     + Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)
     + Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)
 
-  + Previosuly, I have served as the Dean, Digital Infrastructure and Automation, and Professor, Dept. of CSE, at [IIT Jodhpur](https://iitj.ac.in/)
-  + I have also served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
+  + Previosuly, I have served as the Dean, Digital Infrastructure and Automation, and Professor, [Dept. of CSE](https://cse.iitj.ac.in/), at [IIT Jodhpur](https://iitj.ac.in/). I have also served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
   + **Office: C3iHub, IIT Kanpur**   
  > "Lead us to the good path and remove the sin that makes us stray and wander" - Yajurveda 40:16 (8)
 
