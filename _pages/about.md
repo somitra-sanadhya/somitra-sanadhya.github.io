@@ -30,7 +30,7 @@ redirect_from:
 ### Contact:  
 <hr>
   *(This part is copied, with permission, from the webpage of [Prof. Stefan Dziembowski](https://www.crypto.edu.pl/Members/Dziembowski))*
-  + The best way to reach me is to send an email to "my first-name AT iitj.ac.in"
+  + The best way to reach me is to send an email to "my first-name AT iitk.ac.in"
   + You may find my office number from IITJ telephone directory . But I normally do not pick it. The ring-tone is deliberately kept very low (almost inaudible) since I teach from the same place or participate in meetings, and do not wish others to get disturbed due to the phone. If you have my mobile number, please avoid calling me on non-urgent matters. 
   + Also, please refrain from texting my phone, sending messages via apps such as Signal, Whatsapp, etc., or social media messengers (LinkedIn, Facebook, Twitter, etc.). I may not notice them, and even if I do, I may easily forget to reply to them (sorry!). Email is the only channel of communication that I regularly check.  
   + I generally do not respond to messages from publishers known for sending spam (such as MDPI). I also ignore review requests if they concern papers that are clearly out of the scope of my research interest. 
@@ -49,7 +49,10 @@ redirect_from:
 
 ### Organization and Service
 ----
-+ Dean, DIA, IIT Jodhpur, (Sept 2022- Feb 2025).
++ Coordinator, Wadhwani C3i Center, IIT Kanpur. (July 2025 onwards).
++ Center Head, Manekshaw Center of Excellence for National Security Studies and Research (MCOENSSR), IIT Kanpur. (July 2025 onwards).
++ Dean, Digital Infrastructure and Automation, IIT Jodhpur. (Sept 2022- Feb 2025).
++ Chief Information Security Officer (CISO), IIT Jodhpur. (Sept 2022 - July 2025).
 + Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
 + Acting Director, DRDO Industry Academia Center of Excellence, IIT Jodhpur. Nov 2022 - July 2023.
 + PC Member, 22nd International Conference on Cryptology and Network Security (CANS) 2023, SPACE 2023, Indocrypt 2023, ICISS 2023.
