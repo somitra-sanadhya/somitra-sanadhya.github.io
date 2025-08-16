@@ -8,7 +8,8 @@ author_profile: true
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
 ### 2025
-1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025.
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA. VDAT 2025, Aug 2025. 
+2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025.
    
 ### 2024
 1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW), 2024.
