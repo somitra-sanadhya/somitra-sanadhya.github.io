@@ -49,6 +49,7 @@ redirect_from:
 
 ### Organization and Service
 ----
++ Member, Committee for implementing Digital Personal Data Protection Act 2023, IIT Kanpur. (Aug 2025 onwards).
 + Coordinator, Wadhwani C3i Center, IIT Kanpur. (July 2025 onwards).
 + Center Head, Manekshaw Center of Excellence for National Security Studies and Research (MCOENSSR), IIT Kanpur. (July 2025 onwards).
 + Dean, Digital Infrastructure and Automation, IIT Jodhpur. (Sept 2022- Feb 2025).
