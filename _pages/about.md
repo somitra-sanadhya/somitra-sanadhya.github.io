@@ -12,6 +12,7 @@ redirect_from:
   + **Professor, [Wadhwani School of AI and Intelligent Systems](https://www.iitk.ac.in/new/wadhwani-school-of-advanced-ai-intelligent-systems), [IIT Kanpur](https://www.iitk.ac.in/)**
 
     + Program Director, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur. Aug 2025 onwards.
+    + Affiliate, [AGGIES lab](https://www.aggieslab.org/), Dept. of CSE, [Texas A&M University](https://engineering.tamu.edu/cse/index.html), US.
     + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)
