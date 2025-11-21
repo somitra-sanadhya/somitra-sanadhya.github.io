@@ -11,11 +11,13 @@ redirect_from:
 ### सौमित्र सनाढ्य
   + **Professor, [Wadhwani School of AI and Intelligent Systems](https://www.iitk.ac.in/new/wadhwani-school-of-advanced-ai-intelligent-systems), [IIT Kanpur](https://www.iitk.ac.in/)**
 
-    + Fellow, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur , Year 2024-25
+    + Program Director, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur. Aug 2025 onwards.
     + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [IIIT Pune](https://www.iiitp.ac.in/)
     + Member, Board of studies, Dept. of CS and AI, [SRU Chennai](https://sru.edu.in/)
+    + Fellow, [C3iHub](https://c3ihub.org/), Year 2024-25
+    
 
   + Previosuly, I have served as the Dean, Digital Infrastructure and Automation, and Professor, [Dept. of CSE](https://cse.iitj.ac.in/), at [IIT Jodhpur](https://iitj.ac.in/). I have also served as an Associate Professor and Head at the [Dept. of CSE](https://cse.iitrpr.ac.in/) at [IIT Ropar](https://www.iitrpr.ac.in/) 
   + **Office: C3iHub, IIT Kanpur**   
