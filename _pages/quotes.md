@@ -13,6 +13,7 @@ I liked the following quotes and collected them here, in no particular order.
 + "You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman
 + "A man's first duty, a young man's at any rate, is to be ambitious." - G. H. Hardy 
 + "Education’s purpose is to replace an empty mind with an open one." - Malcolm Forbes
++ "The first step of any project is to grossly underestimate its complexity and difficulty." — Nicoll Hunt
 + "Lead us to the good path and remove the sin that makes us stray and wander." - Yajurveda
 + "Everything is theoretically impossible, until it is done.” – Robert A. Heinlein
 + "All you need in this life is ignorance and confidence, then success is sure." - Mark Twain
