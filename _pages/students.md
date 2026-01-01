@@ -7,13 +7,17 @@ author_profile: true
 
 ### Current PhD students:
 ----
++ At IIT Kanpur:
+
+    1. [Vishal Srivastava](https://www.linkedin.com/in/vishal-srivastava27)
+    2. [Aryan Kalra](https://www.linkedin.com/in/aryan1kalra/)
+
 + At IIT Jodhpur:
 
     1. Issa Baddour 
     2. [Pulkit Garg](https://sites.google.com/iitj.ac.in/pulkitgarg/home?pli=1)
     3. Dixit Dutt Bohra
-    4. [Vishal Srivastava](https://www.linkedin.com/in/vishal-srivastava27)
-
+       
 + At IIIT Delhi:
 
     1. Arpan Jati  (co-supervised by Donghoon Chang and Anupam Chattopadhyay)
