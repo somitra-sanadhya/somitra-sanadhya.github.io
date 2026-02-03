@@ -4,6 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Courses at IIT Kanpur:
+----
++ Winter 2026: CS641: Modern Cryptography (regular offline class)
++ Jan-March 2026:  CS974: Introduction to Web Security and Network Security (for online e-masters program)
 
 ### Courses at IIT Jodhpur:
 ----
