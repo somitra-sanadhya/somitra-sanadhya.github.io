@@ -9,7 +9,7 @@ author_profile: true
 + Winter 2026: CS641: Modern Cryptography (regular offline class)
 + Jan-March 2026:  CS974: Introduction to Web Security and Network Security (for online e-masters program)
 
-### Courses at IIT Jodhpur:
+### Courses taught at IIT Jodhpur:
 ----
 + Winter 2025: Cryptography
 + Trimester 1 (PGD AI): Data Structures and Algorithmic Techniques 
