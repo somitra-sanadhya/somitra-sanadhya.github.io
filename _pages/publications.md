@@ -7,6 +7,9 @@ author_profile: true
 
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
+### 2026
+1. Issa Baddour, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer.
+
 ### 2025
 1. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. An Improved Micro-Architectural Covert-Channel Attack on GPUs. Journal of Hardware and Systems Security. Springer. [Link](https://link.springer.com/article/10.1007/s41635-025-00170-0). 
 2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA. VDAT 2025, Aug 2025. 
