@@ -25,8 +25,8 @@ redirect_from:
   + **Office: C3iHub, IIT Kanpur**   
  > "Lead us to the good path and remove the sin that makes us stray and wander" - Yajurveda 40:16 (8)
 
+-----
 ### Working with Me: 
------ 
 
    + For IITK students: Meet me in my office after an email appointment.
      + If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this [note](https://somitra-sanadhya.github.io/note1).
