@@ -27,6 +27,7 @@ redirect_from:
 
 ### Working with Me: 
 ----- 
+
   + For IITK students: Meet me in my office after an email appointment.
   +   If you are interested in pursuing your BTech/MTech/PhD thesis with me then please see this [note](https://somitra-sanadhya.github.io/note1).
   +   If you wish that I write a recommendation letter for you (for any purpose) then please see this [note](https://somitra-sanadhya.github.io/note2).
