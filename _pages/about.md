@@ -89,7 +89,7 @@ redirect_from:
 
 + Organizing Chair of 12th Annual IFIP International Conference on Digital Forensics,  New Delhi, Jan 4-6, 2016.
 + Co-chair Asian Workshop on Symmetric Key Cryptography (ASK) 2014, SETS Chennai, December 19-22 2014.
-+ Workshop on "Cryptanalysis of Symmetric Cryptographic Systems", IIIT Delhi, Feb 28- March 7, 2013.
-+ Program Committee co-Chair, International Conference on Security, Privacy and Applied Cryptography Engineering (SPACE 2012), SETS Chennai, November 2012.
-+ Workshop on "Multivariate Equation Solving Techniques", IIIT Delhi, March 12-16, 2012.
++ Workshop on "Cryptanalysis of Symmetric Cryptographic Systems", IIIT Delhi, Feb 28- March 7, 2013. ([Prof. Vincent Rijmen](https://www.kuleuven.be/wieiswie/en/person/00005695) and [Prof. Andrey Bogdanov](https://dk.linkedin.com/in/andrey-bogdanov) were the invited speakers.)
++ Program Committee co-Chair, International Conference on Security, Privacy and Applied Cryptography Engineering (SPACE 2012), SETS Chennai, November 2012. [Link](https://cse.iitkgp.ac.in/conf/SPACE2013/Space2012/index.html) 
++ Workshop on "Multivariate Equation Solving Techniques", IIIT Delhi, March 12-16, 2012. ([Prof. Ludovic Perret](https://www.lip6.fr/actualite/personnes-fiche.php?ident=A101) and [Prof. Jean-Charles Faugère](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1593) were the invited speakers)
 + Program Committee co-Chair, the 11th National workshop on Cryptology (NCW 2011) held at NIIT University, Neemrana, September 2011
