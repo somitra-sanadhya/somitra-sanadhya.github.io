@@ -11,13 +11,13 @@ author_profile: true
 
     1. [Vishal Srivastava](https://www.linkedin.com/in/vishal-srivastava27)
     2. [Aryan Kalra](https://www.linkedin.com/in/aryan1kalra/)
-    3. [Venkatesh](https://venkysharma.github.io/) Co-supervised by Prof. [Angshuman Karmakar](https://www.cse.iitk.ac.in/users/angshuman/)
+    3. [Venkatesh](https://venkysharma.github.io/): Co-supervised by Prof. [Angshuman Karmakar](https://www.cse.iitk.ac.in/users/angshuman/)
 
 + At IIT Jodhpur:
 
-    1. Issa Baddour 
+    1. Issa Baddour: Co-supervised by Prof. [Dip Sankar Banerjee](https://sites.google.com/site/dipsankarban/) 
     2. [Pulkit Garg](https://sites.google.com/iitj.ac.in/pulkitgarg/home?pli=1)
-    3. Dixit Dutt Bohra
+    3. Dixit Dutt Bohra: Co-supervised by Prof. [Dip Sankar Banerjee](https://sites.google.com/site/dipsankarban/) 
        
 + At IIIT Delhi:
 
