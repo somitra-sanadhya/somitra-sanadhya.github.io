@@ -6,7 +6,9 @@ author_profile: true
 ---
 ### Courses at IIT Kanpur:
 ----
-+ Winter 2026: CS641: Modern Cryptography (regular offline class)
++ Monsoon 2026: CS731: Blockchain Technology and Applications (regular offline class)
++ April-May 2026: CS987: Advanced Critical Infrastructure Security (for online e-masters program)
++ Winter 2026: CS641: Modern Cryptography (regular offline class) 
 + Jan-March 2026:  CS974: Introduction to Web Security and Network Security (for online e-masters program)
 
 ### Courses taught at IIT Jodhpur:
