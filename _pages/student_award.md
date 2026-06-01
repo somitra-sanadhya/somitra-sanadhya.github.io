@@ -14,6 +14,7 @@ This award honors one student every year from the graduating batch at IIT Jodhpu
 
 The following students have been the recipients of the award since its inception.
 
+Year 2026: Priya Sharma (B22CS039)
 
 Year 2025: [Niharika Dadu (B21CS052)](https://in.linkedin.com/in/niharika-dadu-4b3181228)
 
