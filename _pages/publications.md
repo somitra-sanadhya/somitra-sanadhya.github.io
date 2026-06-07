@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2026
 1. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security 2026. 
-2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. EEE Embedded Systems Letters.  
+2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters.  
 3. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer.
 
 ### 2025
