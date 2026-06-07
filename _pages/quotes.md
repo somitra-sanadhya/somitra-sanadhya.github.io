@@ -7,6 +7,7 @@ author_profile: true
 
 I liked the following quotes and collected them here, in no particular order.
 
++ "கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக (௩௱௯௰௧ - 391)" (Learn thoroughly what should be learnt. And having learnt, stand according to that. - Thiruvalluvar, Kural 391)
 + "Whoever thinks his problem can be solved using cryptography doesn’t understand his problem and doesn’t understand cryptography." ‒ Attributed by Roger Needham and Butler Lampson to each other
 + "Learn as much as you can while you are young, since life becomes too busy later." - Dana Stewart Scott 
 + "No man should escape our universities without knowing how little he knows."  - J. Robert Oppenheimer 
