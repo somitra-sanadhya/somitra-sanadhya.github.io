@@ -11,8 +11,6 @@ redirect_from:
 ### सौमित्र सनाढ्य
   + **Professor, [Wadhwani School of AI and Intelligent Systems](https://iitk.ac.in/wsais/index.php), [IIT Kanpur](https://www.iitk.ac.in/)**
 
-    + Program Director, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur. Aug 2025 onwards.
-    + Coordinator, Wadhwani Center for Cybersecurity of Critical Infrastructure (WC3i), IIT Kanpur, Aug 2025 onwards.
     + Affiliate, [AGGIES lab](https://www.aggieslab.org/), Dept. of CSE, [Texas A&M University](https://engineering.tamu.edu/cse/index.html), US.
     + Member, Governing Body, [GSFC University, Gujarat](https://www.gsfcuniversity.ac.in/)
     + Member, Board of Studies, Dept. of CSE, [NIT Jamshedpur](https://www.nitjsr.ac.in/)
@@ -59,10 +57,12 @@ redirect_from:
 
 ### Organization and Service
 ----
++ Program Director, [C3iHub](https://c3ihub.org/), the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur (Aug 2025 onwards).
++ Coordinator, Wadhwani Center for Cybersecurity of Critical Infrastructure (WC3i), IIT Kanpur (Aug 2025 onwards).
 + Member, Centre for Telecom Cyber Security (CTCS), [NCA-T](https://ntiprit.gov.in/), Ghaziabad, Dept. of Telecommunications (Aug 2025 onwards).
-+ Member, Committee for implementing Digital Personal Data Protection Act 2023, IIT Kanpur. (Aug 2025 onwards).
-+ Coordinator, Wadhwani C3i Center, IIT Kanpur. (July 2025 onwards).
-+ Center Head, Manekshaw Center of Excellence for National Security Studies and Research (MCOENSSR), IIT Kanpur. (July 2025 onwards).
++ Member, Committee for implementing Digital Personal Data Protection Act 2023, IIT Kanpur (Aug 2025 onwards).
++ Coordinator, Wadhwani C3i Center, IIT Kanpur (July 2025 onwards).
++ Center Head, Manekshaw Center of Excellence for National Security Studies and Research (MCOENSSR), IIT Kanpur (July 2025 onwards).
 + Dean, Digital Infrastructure and Automation, IIT Jodhpur. (Sept 2022- Feb 2025).
 + Chief Information Security Officer (CISO), IIT Jodhpur. (Sept 2022 - July 2025).
 + Organizing chair, IFIP WG 11.9 International conference on Digital Forensics, New Delhi (Jan 2-4, 2024). 
