@@ -8,9 +8,10 @@ author_profile: true
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
 ### 2026
-1. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security 2026. 
-2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters.  
-3. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer.
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. 
+2. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. 
+3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters.  
+4. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer.
 
 ### 2025
 1. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. An Improved Micro-Architectural Covert-Channel Attack on GPUs. Journal of Hardware and Systems Security. Springer. [Link](https://link.springer.com/article/10.1007/s41635-025-00170-0). 
