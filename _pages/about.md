@@ -57,7 +57,7 @@ redirect_from:
 
 ### Organization and Service
 ----
-+ Program Director, C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur (Aug 2025 - June 2026).
++ Program Director, C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur (Aug 2025 onwards).
 + Coordinator, Wadhwani Center for Cybersecurity of Critical Infrastructure (WC3i), IIT Kanpur (Aug 2025 onwards).
 + Member, Centre for Telecom Cyber Security (CTCS), [NCA-T](https://ntiprit.gov.in/), Ghaziabad, Dept. of Telecommunications (Aug 2025 onwards).
 + Member, Committee for implementing Digital Personal Data Protection Act 2023, IIT Kanpur (Aug 2025 onwards).
