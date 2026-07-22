@@ -8,59 +8,59 @@ author_profile: true
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
 ### 2026
-1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. 
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. [Link](https://ieeexplore.ieee.org/document/11615213)
 2. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. 
-3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters.  
-4. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer.
+3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters. [Link](https://ieeexplore.ieee.org/document/11552768)
+4. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer. [Link](https://link.springer.com/article/10.1007/s41635-026-00175-3)
 
 ### 2025
 1. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. An Improved Micro-Architectural Covert-Channel Attack on GPUs. Journal of Hardware and Systems Security. Springer. [Link](https://link.springer.com/article/10.1007/s41635-025-00170-0). 
 2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA. VDAT 2025, Aug 2025. 
-3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025.
+3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025. [Link](https://ieeexplore.ieee.org/document/11130302)
    
 ### 2024
-1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW), 2024.
-2. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. 
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW), 2024. [Link](https://ieeexplore.ieee.org/document/10898823)
+2. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya. EFFLUX-F2: A High performance hardware security evaluation board. 15th International Workshop on Constructive Side-Channel Analysis and Secure Design (COSADE 2024) France, April 2024. LNCS volume 14595. [Link](https://link.springer.com/chapter/10.1007/978-3-031-57543-3_3) 
 
 ### 2023
-1. Amit Kumar Chauhan, Abhishek Kumar, Somitra Kumar Sanadhya. Square Attacks on Reduced-Round FEA-1 and FEA-2. 25th International Symposium on Stabilization, Safety, and Security of Distributed Systems 2023 (SSS 2023). 
-2. Naina Gupta, Arpan Jati, Anupam Chattopadhyay, Somitra Kumar Sanadhya. A Configurable CRYSTALS-Kyber Hardware Implementation with Side-Channel Protection. ACM Transactions on Embedded Computing Systems. Accepted. Feb 2023. Link.
+1. Amit Kumar Chauhan, Abhishek Kumar, Somitra Kumar Sanadhya. Square Attacks on Reduced-Round FEA-1 and FEA-2. 25th International Symposium on Stabilization, Safety, and Security of Distributed Systems 2023 (SSS 2023). [Link](https://link.springer.com/chapter/10.1007/978-3-031-44274-2_43)
+2. Naina Gupta, Arpan Jati, Anupam Chattopadhyay, Somitra Kumar Sanadhya. A Configurable CRYSTALS-Kyber Hardware Implementation with Side-Channel Protection. ACM Transactions on Embedded Computing Systems. Accepted. Feb 2023. [Link](https://dl.acm.org/doi/10.1145/3587037)
 
 ### 2022
-1. Tapas Chatterjee, Ayantika Laha, and Somitra Kumar Sanadhya. On The Structure of Format Preserving Sets in the Diffusion Layer of Block Ciphers. IEEE Transactions on Information Theory. Vol. 68, Issue 12, pp. 8268-8279. DoI: 10.1109/TIT.2022.3187407. Link.
-2. Subodh Bijwe, Amit Kumar Chauhan, and Somitra Kumar Sanadhya. Implementing Grover Oracle for Lightweight Block Ciphers under Depth Constraints. 27th Australasian Conference on Information Security and Privacy (ACISP) 2022, Wollongong, Australia, November 28-30, 2022. 
-3. Monika Singh, Anviksha Khunteta, Mohona Ghosh, Donghoon Chang, and Somitra Kumar Sanadhya. FbHash-E: A time and memory efficient version of FbHash similarity hashing algorithm, Forensic Science International: Digital Investigation, Volume 41, 2022, ISSN 2666-2817 Link.
-4. N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya. Design and Analysis of FPGA-Based PUFs with Enhanced Performance for Hardware-Oriented Security. ACM Journal on Emerging Technologies in Computing Systems (JETC), Vol. 18, issue 4, 2022, ISSN No. 1539-9087, doi.acm.org?doi=3517813.
-5. N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya. Field Programmable Gate Array based Elliptic Curve Menezes-Qu-Vanstone key agreement protocol realization using Physical Unclonable Function and true random number generator primitives. IET Circuits, Devices & Systems, 2022, Pages 1-17, ISSN No. 751-8598. Link.
+1. Tapas Chatterjee, Ayantika Laha, and Somitra Kumar Sanadhya. On The Structure of Format Preserving Sets in the Diffusion Layer of Block Ciphers. IEEE Transactions on Information Theory. Vol. 68, Issue 12, pp. 8268-8279. DoI: 10.1109/TIT.2022.3187407. [Link](https://ieeexplore.ieee.org/document/9810970)
+2. Subodh Bijwe, Amit Kumar Chauhan, and Somitra Kumar Sanadhya. Implementing Grover Oracle for Lightweight Block Ciphers under Depth Constraints. 27th Australasian Conference on Information Security and Privacy (ACISP) 2022, Wollongong, Australia, November 28-30, 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-22301-3_5)
+3. Monika Singh, Anviksha Khunteta, Mohona Ghosh, Donghoon Chang, and Somitra Kumar Sanadhya. FbHash-E: A time and memory efficient version of FbHash similarity hashing algorithm, Forensic Science International: Digital Investigation, Volume 41, 2022, ISSN 2666-2817 [Link](https://www.sciencedirect.com/science/article/pii/S2666281722000543)
+4. N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya. Design and Analysis of FPGA-Based PUFs with Enhanced Performance for Hardware-Oriented Security. ACM Journal on Emerging Technologies in Computing Systems (JETC), Vol. 18, issue 4, 2022, ISSN No. 1539-9087. [Link](https://dl.acm.org/doi/10.1145/3517813)
+5. N. Nalla Anandakumar, Mohammad S. Hashmi and Somitra Kumar Sanadhya. Field Programmable Gate Array based Elliptic Curve Menezes-Qu-Vanstone key agreement protocol realization using Physical Unclonable Function and true random number generator primitives. IET Circuits, Devices & Systems, 2022, Pages 1-17, ISSN No. 751-8598. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cds2.12111)
 
 ### 2021
-1. Amit Kumar Chauhan, Abhishek Kumar, Somitra Kumar Sanadhya. Quantum Free-Start Collision Attacks on Double Block Length Hashing with Round-Reduced AES-256. IACR Transactions on Symmetric Cryptology (ToSC), Vol. 2021, Issue 1.	
+1. Amit Kumar Chauhan, Abhishek Kumar, Somitra Kumar Sanadhya. Quantum Free-Start Collision Attacks on Double Block Length Hashing with Round-Reduced AES-256. IACR Transactions on Symmetric Cryptology (ToSC), Vol. 2021, Issue 1. [Link](https://tosc.iacr.org/index.php/ToSC/article/view/8841)
 
 ### 2020
-1. Orr Dunkelman, Abhishek Kumar, Eran Lambooij, Somitra Kumar Sanadhya. Counting Active S-Boxes is not Enough. Indocrypt 2020.
-2. Amit Kumar Chauhan, Somitra Kumar Sanadhya. Quantum Resource Estimates of Grover’s Key Search on ARIA. SPACE 2020.
-3. Nalla Anandakumar, Mohammed Hashmi, Somitra Kumar Sanadhya. Efficient and Lightweight FPGA-based Hybrid PUFs with Improved Performance. Microprocessors and Microsystems. Vol. 77. Elsevier. 
-4. Nalla Anandakumar, Somitra Kumar Sanadhya, Mohammed Hashmi. Design, Implementation And Analysis of Hardware-based Security Primitives. 2020 IFIP/IEEE 28th International Conference on Very Large Scale Integration (VLSI-SOC), Salt Lake City, UT, USA, 2020. Link
+1. Orr Dunkelman, Abhishek Kumar, Eran Lambooij, Somitra Kumar Sanadhya. Counting Active S-Boxes is not Enough. Indocrypt 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-65277-7_15)
+2. Amit Kumar Chauhan, Somitra Kumar Sanadhya. Quantum Resource Estimates of Grover’s Key Search on ARIA. SPACE 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-66626-2_13)
+3. Nalla Anandakumar, Mohammed Hashmi, Somitra Kumar Sanadhya. Efficient and Lightweight FPGA-based Hybrid PUFs with Improved Performance. Microprocessors and Microsystems. Vol. 77. Elsevier. [Link](https://www.sciencedirect.com/science/article/pii/S0141933120303471)
+4. Nalla Anandakumar, Somitra Kumar Sanadhya, Mohammed Hashmi. Design, Implementation And Analysis of Hardware-based Security Primitives. 2020 IFIP/IEEE 28th International Conference on Very Large Scale Integration (VLSI-SOC), Salt Lake City, UT, USA, 2020. [Link](https://ieeexplore.ieee.org/document/9344097)
 
 ### 2019
-1. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya, Donghoon Chang.  Threshold Implementations of GIFT: A Trade-off Analysis. IEEE Trans. Information Forensics and Security. Vol. 15, 2020. Link
-2. Donghoon Chang; Nilanjan Datta; Avijit Dutta; Bart Mennink; Mridul Nandi; Somitra Sanadhya; Ferdinand Sibleyras. Release of Unverified Plaintext: Tight Unified Model and Application to ANYDAE. IACR Transactions on Symmetric Cryptography (ToSC), 2019 Issue 4.
-3. Nalla Anandakumar, Somitra Kumar Sanadhya, Mohammed Hashmi. FPGA-Based True Random Number Generation Using Programmable Delays in Oscillator-Rings. IEEE Transactions on Circuits and Systems-II, Express briefs. Vol. 67-II, No. 3. Link
-4. Donghoon Chang, Mohona Ghosh, Somitra Kumar Sanadhya, Monika Singh, Douglas R. White. A New Similarity Hashing Scheme for Digital Forensics. Digital Investigation, special issue. Elsevier Link
-5. Donghoon Chang, Mohona Ghosh, Arpan Jati, Abhishek Kumar, Somitra Kumar Sanadhya. A Generalized Format Preserving Encryption Framework Using MDS Matrices. Journal of Hardware and Systems Security, Springer. Link
+1. Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya, Donghoon Chang.  Threshold Implementations of GIFT: A Trade-off Analysis. IEEE Trans. Information Forensics and Security. Vol. 15, 2020. [Link](https://ieeexplore.ieee.org/document/8924680)
+2. Donghoon Chang; Nilanjan Datta; Avijit Dutta; Bart Mennink; Mridul Nandi; Somitra Sanadhya; Ferdinand Sibleyras. Release of Unverified Plaintext: Tight Unified Model and Application to ANYDAE. IACR Transactions on Symmetric Cryptography (ToSC), 2019 Issue 4. [Link](https://tosc.iacr.org/index.php/ToSC/article/view/8456)
+3. Nalla Anandakumar, Somitra Kumar Sanadhya, Mohammed Hashmi. FPGA-Based True Random Number Generation Using Programmable Delays in Oscillator-Rings. IEEE Transactions on Circuits and Systems-II, Express briefs. Vol. 67-II, No. 3. [Link](https://ieeexplore.ieee.org/document/8726130)
+4. Donghoon Chang, Mohona Ghosh, Somitra Kumar Sanadhya, Monika Singh, Douglas R. White. A New Similarity Hashing Scheme for Digital Forensics. Digital Investigation, special issue. Elsevier [Link](https://www.sciencedirect.com/science/article/pii/S1742287619301550)
+5. Donghoon Chang, Mohona Ghosh, Arpan Jati, Abhishek Kumar, Somitra Kumar Sanadhya. A Generalized Format Preserving Encryption Framework Using MDS Matrices. Journal of Hardware and Systems Security, Springer. [Link](https://link.springer.com/article/10.1007/s41635-019-00065-x)
 
 ### 2018
-1. Nalla Anandakumar, Prem Laxman Das, Somitra Kumar Sanadhya, Mohammad Hashmi. Reconfigurable Hardware Architecture for Authenticated Key Agreement Protocol Over Binary Edwards Curve. ACM Transactions on Reconfigurable Technology and Systems. Vol 11, No. 2. Link
-2. Akshima, Donghoon Chang, Aarushi Goel, Sweta Mishra, Somitra Kumar Sanadhya. Generation of Secure and Reliable Honeywords. IEEE Transactions on Dependable and Secure Computing. April 2018. Link
-3. Donghoon Chang, Arpan Jati, Sweta Mishra, Somitra Kumar Sanadhya. Cryptanalytic Time-Memory Tradeoff for Password Hashing Schemes. International Journal of Information Security. Springer. April 2018. Link
-4. Donghoon Chang, Amit Kumar Chauhan, Sandeep Kumar, Somitra Kumar Sanadhya. Revocable Identity-based Encryption from Codes with Rank Metric. CT-RSA 2018. 
+1. Nalla Anandakumar, Prem Laxman Das, Somitra Kumar Sanadhya, Mohammad Hashmi. Reconfigurable Hardware Architecture for Authenticated Key Agreement Protocol Over Binary Edwards Curve. ACM Transactions on Reconfigurable Technology and Systems. Vol 11, No. 2. [Link](https://dl.acm.org/doi/10.1145/3231743)
+2. Akshima, Donghoon Chang, Aarushi Goel, Sweta Mishra, Somitra Kumar Sanadhya. Generation of Secure and Reliable Honeywords. IEEE Transactions on Dependable and Secure Computing. April 2018. [Link](https://ieeexplore.ieee.org/document/8333731)
+3. Donghoon Chang, Arpan Jati, Sweta Mishra, Somitra Kumar Sanadhya. Cryptanalytic Time-Memory Tradeoff for Password Hashing Schemes. International Journal of Information Security. Springer. April 2018. [Link](https://ieeexplore.ieee.org/document/8333731)
+4. Donghoon Chang, Amit Kumar Chauhan, Sandeep Kumar, Somitra Kumar Sanadhya. Revocable Identity-based Encryption from Codes with Rank Metric. CT-RSA 2018. [Link](https://link.springer.com/chapter/10.1007/978-3-319-76953-0_23) 
 
 ### 2017
-1. Donghoon Chang, Mohona Ghosh, Arpan Jati, Abhishek Kumar and Somitra Kumar Sanadhya. eSPF: A Family of Format-Preserving Encryption Algorithms using MDS Matrices. SPACE 2017.
-2. Donghoon Chang, Abhishek Kumar, Somitra Kumar Sanadhya. Distinguishers for 4-branch and 8-branch Generalized Feistel Network. IEEE Access. Vol 5, pages 27857-27867 (IF 1.270).
-3. Tarun Bansal, Donghoon Chang, Somitra Kumar Sanadhya. Sponge based CCA2 secure asymmetric encryption for arbitrary length message. International Journal of Applied Cryptography. Vol 3, No 3 pp 262-287, Inderscience publishers.
-4. Megha Agrawal, Donghoon Chang, Somitra Kumar Sanadhya. A New Authenticated Encryption Technique for Handling Long Ciphertexts in Memory Constrained Devices. International Journal of Applied Cryptography. Vol 3, No 3, pp 236-261, Inderscience publishers.
-5. Nalla Anandakumar, Mohammad Hashmi, Somitra Kumar Sanadhya. Compact Implementation of FPGA-based PUFs with Enhanced Performance. VLSI Design 2017. January 7-11, 2017, Hyderabad, India.
+1. Donghoon Chang, Mohona Ghosh, Arpan Jati, Abhishek Kumar and Somitra Kumar Sanadhya. eSPF: A Family of Format-Preserving Encryption Algorithms using MDS Matrices. SPACE 2017. [Link](https://digitalcommons.isical.ac.in/conf-articles/346/)
+2. Donghoon Chang, Abhishek Kumar, Somitra Kumar Sanadhya. Distinguishers for 4-branch and 8-branch Generalized Feistel Network. IEEE Access. Vol 5, pages 27857-27867 [Link](https://ieeexplore.ieee.org/document/7888459)
+3. Tarun Bansal, Donghoon Chang, Somitra Kumar Sanadhya. Sponge based CCA2 secure asymmetric encryption for arbitrary length message. International Journal of Applied Cryptography. Vol 3, No 3 pp 262-287, Inderscience publishers. [Link](https://eprint.iacr.org/2015/330)
+4. Megha Agrawal, Donghoon Chang, Somitra Kumar Sanadhya. A New Authenticated Encryption Technique for Handling Long Ciphertexts in Memory Constrained Devices. International Journal of Applied Cryptography. Vol 3, No 3, pp 236-261, Inderscience publishers. [Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJACT.2017.086223)
+5. Nalla Anandakumar, Mohammad Hashmi, Somitra Kumar Sanadhya. Compact Implementation of FPGA-based PUFs with Enhanced Performance. VLSI Design 2017. January 7-11, 2017, Hyderabad, India. [Link](https://ieeexplore.ieee.org/document/7884773)
 
 ### 2016
 1. Donghoon Chang, Mohona Ghosh, Kishan Chand Gupta, Arpan Jati, Abhishek Kumar, Dukjae Moon, Indranil Ghosh Ray, Somitra Kumar Sanadhya. SPF: A New Family of Efficient Format-Preserving Encryption Algorithms. Inscrypt 2016, November 4-6, 2016, Beijing, China.
