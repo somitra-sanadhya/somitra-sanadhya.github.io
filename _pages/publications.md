@@ -122,13 +122,12 @@ author_profile: true
 6. N. R. Pal, Animesh Sharma and Somitra Sanadhya, "Deriving meaningful rules from gene expression data for classification". Journal of Intelligent & Fuzzy Systems, Vol. 19, No. 3, pp 171–180, 2008
 
 ### 2007
-1. Somitra Sanadhya and Palash Sarkar, "New local collisions in the SHA-2 hash family", International Conference on Information Security and Cryptography ICISC '07, Nov 2007, Seoul, Korea. Preprint (Accept. rate 26/127 = 20.4 %)
+1. Somitra Sanadhya and Palash Sarkar, "New local collisions in the SHA-2 hash family", International Conference on Information Security and Cryptography ICISC '07, Nov 2007, Seoul, Korea. Preprint (Accept. rate 26/127 = 20.4 %). [Link](https://link.springer.com/chapter/10.1007/978-3-540-76788-6_16)
 2. Somitra Sanadhya and Palash Sarkar, "On the security of MD4", Technical Report ASD/2007/3, Applied Statistics Unit, ISI Kolkata, 2007 Preprint
-3. NR Pal, Somitra Sanadhya and Animesh Sharma "Computation of consensus hydrophobicity scales with self-organizing maps and fuzzy clustering along with applications to protein fold prediction", Neural, Parallel, and Scientific Computations, 15, 75-90, 2007 Preprint Impact Factor(2015)=1.812
-
+3. NR Pal, Somitra Sanadhya and Animesh Sharma "Computation of consensus hydrophobicity scales with self-organizing maps and fuzzy clustering along with applications to protein fold prediction", Neural, Parallel, and Scientific Computations, 15, 75-90, 2007 [Link](https://dl.acm.org/doi/abs/10.5555/1315424.1315429)
 ### 2006
-1. NR Pal, Animesh Sharma, Somitra Sanadhya and Karmeshu, "On identifying marker genes from gene expression data in a neural framework through online feature analysis", International Journal of Intelligent Systems, 21(4), 453-467, 2006 Preprint Impact Factor(2015)=1.886
-2. Prabir Bhattacharyya and Somitra Sanadhya, "Support Vector Regression based tool wear assessment in face milling", IEEE International Conference on Industrial Technology (ICIT) 2006 Preprint
+1. NR Pal, Animesh Sharma, Somitra Sanadhya and Karmeshu, "On identifying marker genes from gene expression data in a neural framework through online feature analysis", International Journal of Intelligent Systems, 21(4), 453-467, 2006. [Link](https://onlinelibrary.wiley.com/doi/10.1002/int.20142)
+2. Prabir Bhattacharyya and Somitra Sanadhya, "Support Vector Regression based tool wear assessment in face milling", IEEE International Conference on Industrial Technology (ICIT) 2006. [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4237981)
 3. A Krishnamachari, T Srinivas, Somitra K Sanadhya and S Balasundaram, "Perceptron Decision Tree Model for E. coli Promoters", Proceedings of International Conference on Bioinformatics InCoB 2006, New Delhi.
 
 ### Book Chapter
