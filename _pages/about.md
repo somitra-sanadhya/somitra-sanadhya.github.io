@@ -57,11 +57,11 @@ redirect_from:
 
 ### Organization and Service
 ----
++ PC Member, Usenix Security Symposium 2027.
 + Program Director, C3iHub, the Cybersecurity and Cyber-Physical Systems Innovation Hub, IIT Kanpur (Aug 2025 - July 2026).
 + Coordinator, Wadhwani Center for Cybersecurity of Critical Infrastructure (WC3i), IIT Kanpur (Aug 2025 onwards).
 + Member, Centre for Telecom Cyber Security (CTCS), [NCA-T](https://ntiprit.gov.in/), Ghaziabad, Dept. of Telecommunications (Aug 2025 onwards).
 + Member, Committee for implementing Digital Personal Data Protection Act 2023, IIT Kanpur (Aug 2025 onwards).
-+ Coordinator, Wadhwani C3i Center, IIT Kanpur (July 2025 onwards).
 + Center Head, Manekshaw Center of Excellence for National Security Studies and Research (MCOENSSR), IIT Kanpur (July 2025 onwards).
 + Dean, Digital Infrastructure and Automation, IIT Jodhpur. (Sept 2022- Feb 2025).
 + Chief Information Security Officer (CISO), IIT Jodhpur. (Sept 2022 - July 2025).
