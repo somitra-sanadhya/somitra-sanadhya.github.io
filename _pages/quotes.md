@@ -16,6 +16,7 @@ I liked the following quotes and collected them here, in no particular order.
 + "A man's first duty, a young man's at any rate, is to be ambitious." - G. H. Hardy 
 + "Education’s purpose is to replace an empty mind with an open one." - Malcolm Forbes
 + "By failing to prepare, you are preparing to fail" - Unknown Chess player
++ “If something is wrong, fix it. But train yourself not to worry, worry fixes nothing.” - Ernest Hemingway
 + "The first step of any project is to grossly underestimate its complexity and difficulty." — Nicoll Hunt
 + "Lead us to the good path and remove the sin that makes us stray and wander." - Yajurveda
 + "Everything is theoretically impossible, until it is done.” – Robert A. Heinlein
