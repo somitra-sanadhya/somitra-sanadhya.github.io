@@ -63,10 +63,10 @@ author_profile: true
 5. Nalla Anandakumar, Mohammad Hashmi, Somitra Kumar Sanadhya. Compact Implementation of FPGA-based PUFs with Enhanced Performance. VLSI Design 2017. January 7-11, 2017, Hyderabad, India. [Link](https://ieeexplore.ieee.org/document/7884773)
 
 ### 2016
-1. Donghoon Chang, Mohona Ghosh, Kishan Chand Gupta, Arpan Jati, Abhishek Kumar, Dukjae Moon, Indranil Ghosh Ray, Somitra Kumar Sanadhya. SPF: A New Family of Efficient Format-Preserving Encryption Algorithms. Inscrypt 2016, November 4-6, 2016, Beijing, China.
-2. Donghoon Chang, Amit Kumar Chauhan, Naina Gupta, Arpan Jati and Somitra Kumar Sanadhya. Exploiting the Leakage: Analysis of some Authenticated Encryption schemes. SPACE 2016, December 14-18, 2016, Hyderabad, India.
-3. Megha Agrawal, Tarun Kumar Bansal, Donghoon Chang, Amit Kumar Chauhan, Seokhie Hong, Jinkeon Kang, Somitra Kumar Sanadhya. RCB: leakage-resilient authenticated encryption via re-keying. The Journal of Supercomputing, Springer. 2016. Online version: here.
-4. Monika Singh, Donghoon Chang, Somitra Kumar Sanadhya. Security Analysis of mvHash-B Similarity Hashing. Journal of Digital Forensics, Security and Law, Vol. 11 (2), 2016.
+1. Donghoon Chang, Mohona Ghosh, Kishan Chand Gupta, Arpan Jati, Abhishek Kumar, Dukjae Moon, Indranil Ghosh Ray, Somitra Kumar Sanadhya. SPF: A New Family of Efficient Format-Preserving Encryption Algorithms. Inscrypt 2016, November 4-6, 2016, Beijing, China. [Link](https://link.springer.com/chapter/10.1007/978-3-319-54705-3_5)
+2. Donghoon Chang, Amit Kumar Chauhan, Naina Gupta, Arpan Jati and Somitra Kumar Sanadhya. Exploiting the Leakage: Analysis of some Authenticated Encryption schemes. SPACE 2016, December 14-18, 2016, Hyderabad, India. [Link](https://link.springer.com/chapter/10.1007/978-3-319-49445-6_22)
+3. Megha Agrawal, Tarun Kumar Bansal, Donghoon Chang, Amit Kumar Chauhan, Seokhie Hong, Jinkeon Kang, Somitra Kumar Sanadhya. RCB: leakage-resilient authenticated encryption via re-keying. The Journal of Supercomputing, Springer. 2016. [Link](https://link.springer.com/article/10.1007/s11227-016-1824-6)
+4. Monika Singh, Donghoon Chang, Somitra Kumar Sanadhya. Security Analysis of mvHash-B Similarity Hashing. Journal of Digital Forensics, Security and Law, Vol. 11 (2), 2016. [Link](https://commons.erau.edu/jdfsl/vol11/iss2/2/)
 
 ### 2015
 1. Donghoon Chang, Somitra Kumar Sanadhya, Nishant Sharma. New HMAC Message Patches: Secret Patch and CrOw Patch, ICISS 2015, December  16-20, 2015, Kolkata, India.
