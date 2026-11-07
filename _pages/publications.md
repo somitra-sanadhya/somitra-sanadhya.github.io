@@ -9,13 +9,13 @@ author_profile: true
 
 ### 2026
 1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. [Link](https://ieeexplore.ieee.org/document/11615213)
-2. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. 
+2. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. [Link](https://dl.acm.org/doi/10.5555/3857392.3857673) 
 3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters. [Link](https://ieeexplore.ieee.org/document/11552768)
 4. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer. [Link](https://link.springer.com/article/10.1007/s41635-026-00175-3)
 
 ### 2025
 1. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. An Improved Micro-Architectural Covert-Channel Attack on GPUs. Journal of Hardware and Systems Security. Springer. [Link](https://link.springer.com/article/10.1007/s41635-025-00170-0). 
-2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA. VDAT 2025, Aug 2025. 
+2. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA. VDAT 2025, Aug 2025. [Link](https://link.springer.com/chapter/10.1007/978-3-032-26298-1_3)
 3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025), Kalamata, Greece, July 2025. [Link](https://ieeexplore.ieee.org/document/11130302)
    
 ### 2024
