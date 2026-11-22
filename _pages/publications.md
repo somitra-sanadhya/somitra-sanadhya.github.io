@@ -8,10 +8,11 @@ author_profile: true
   Author naming convention: [culture statement](https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf)
 
 ### 2026
-1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. [Link](https://ieeexplore.ieee.org/document/11615213)
-2. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. [Link](https://dl.acm.org/doi/10.5555/3857392.3857673) 
-3. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters. [Link](https://ieeexplore.ieee.org/document/11552768)
-4. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer. [Link](https://link.springer.com/article/10.1007/s41635-026-00175-3)
+1. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. On the Cost and Correctness of Bound Checking in ML-DSA  Hardware-Software Co-Designs. Security, Privacy and Applied Cryptography Engineering (SPACE) 2026. [Link](https://space2026.isec.tugraz.at/)
+2. Dixit Dutt Bohra, Dip Sankar Banerjee, and Somitra Kumar Sanadhya. Sparse-Aware Hardware Acceleration for CRYSTALS-Dilithium: Exploiting Challenge Polynomial Sparsity. IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), 2026. [Link](https://ieeexplore.ieee.org/document/11615213)
+3. Pulkit Garg, Robin Verma, Somitra Kumar Sanadhya, and Gaurav Gupta. What You Decode Depends on Where You Stand: Distance-Based Optical QR Code. USENIX Security Symposium 2026. [Link](https://dl.acm.org/doi/10.5555/3857392.3857673) 
+4. Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium. IEEE Embedded Systems Letters. [Link](https://ieeexplore.ieee.org/document/11552768)
+5. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. SideLink: Exposing NVLink to Covert- and Side-Channel Attacks. Journal of Hardware and Systems Security, Springer. [Link](https://link.springer.com/article/10.1007/s41635-026-00175-3)
 
 ### 2025
 1. Issa Baddour, Somitra Kumar Sanadhya, and Dip Sankar Banerjee. An Improved Micro-Architectural Covert-Channel Attack on GPUs. Journal of Hardware and Systems Security. Springer. [Link](https://link.springer.com/article/10.1007/s41635-025-00170-0). 
