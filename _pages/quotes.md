@@ -9,7 +9,8 @@ I liked the following quotes and collected them here, in no particular order.
 
 + "கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக (௩௱௯௰௧ - 391)" (Learn thoroughly what should be learnt. And having learnt, stand according to that. - Thirukkural by Saint Thiruvalluvar, Kural 391)
 + "Whoever thinks his problem can be solved using cryptography doesn’t understand his problem and doesn’t understand cryptography." ‒ Attributed by Roger Needham and Butler Lampson to each other
-+ "Learn as much as you can while you are young, since life becomes too busy later." - Dana Stewart Scott 
++ "Learn as much as you can while you are young, since life becomes too busy later." - Dana Stewart Scott
++ "The true delight is in the finding out, not in the knowing." - Issac Asimov
 + "No man should escape our universities without knowing how little he knows."  - J. Robert Oppenheimer 
 + "You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman
 + "Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough." - Richard Feynman
